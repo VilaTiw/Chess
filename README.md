@@ -4,7 +4,7 @@
 
 ## 🛠 Requirements
 ### Ensure you have Python and Pygame installed before running the game.
-- Download and install Python from python.org.
+- Download and install Python from [python.org](https://www.python.org).
 - You can install Pygame using the following command: pip install pygame
 
 ## 🚀 How to Run
